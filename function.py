@@ -7,5 +7,4 @@ Created on Thu Nov 30 15:55:16 2023
 """
 
 def division(val):
-    val = val / 10
-    return val
+    return val / 10
